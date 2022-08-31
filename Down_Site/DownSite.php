@@ -1,4 +1,5 @@
 <?php
+echo "Created by CyberMan";
 $target=scandir("./index.php");
 for($i=1;$i<3;$i++)
 {
